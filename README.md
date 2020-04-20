@@ -1,0 +1,2 @@
+# serverok
+Simple server
